@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "さいはて feat. キタニタツヤ",
+  "base_artist": "Lanndo",
+  "createdAt": "2026-01-14T08:42:53.849132Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "さいはて",
+      "artist": "ヒトリエ",
+      "has_synced": true,
+      "path": "select/01_さいはて_ヒトリエ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "さいはて",
+      "artist": "hitorie",
+      "has_synced": true,
+      "path": "select/02_さいはて_hitorie.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "さいはて feat. キタニタツヤ",
+      "artist": "Lanndo, キタニタツヤ",
+      "has_synced": false,
+      "path": "select/pl_01_さいはて_feat._キタニタツヤ_Lanndo,_キタニタツヤ.txt"
+    }
+  ]
+}
